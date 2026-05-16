@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Use the DIP switch to control the 7-segment display
+AYAW
 
 ## How to test
 
-Use the DIP switch to control the 7-segment display
+KO
 
 ## External hardware
 
